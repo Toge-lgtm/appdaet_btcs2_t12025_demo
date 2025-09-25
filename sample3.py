@@ -1,6 +1,6 @@
-name = "Jake"
+name = "Gillian"
 print(name * 10)
 print(name[2])
 
-phrase = "Peter piper picked a peck of pickled peppers"
+phrase = "Banana"
 print(phrase[-5])

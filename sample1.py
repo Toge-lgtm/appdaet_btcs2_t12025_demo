@@ -4,9 +4,9 @@
 name = input("What is your name?")
 age = input("How old are you?")
 color = input("What is your favourite color?")
-Gender = input("What is your pronouns")
+Gender = input("What are your pronouns")
 
-print(f"Hello {name}! You are {age} years old, and your favorite color is {color}.")
+print(f"Hello {name}! You are {age} years old, and your favorite color is {color}, your pronouns are {Gender}")
 
 # Number conversion
 print(0xABCDEF1234)
