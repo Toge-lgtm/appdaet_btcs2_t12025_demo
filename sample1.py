@@ -4,8 +4,9 @@
 name = input("What is your name?")
 age = input("How old are you?")
 color = input("What is your favourite color?")
+birthday = input("When is your birthday?")
 
-print(f"Hello {name}! You are {age} years old, and your favorite color is {color}.")
+print(f"Hello {name}! You are {age} years old, and your favorite color is {color}, and your birthday is {birthday}.")
 
 # Number conversion
 print(0xABCDEF1234)
